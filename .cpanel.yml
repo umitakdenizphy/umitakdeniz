@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/umitiveh/repositories/umitakdeniz/
-    - /bin/cp -R * $DEPLOYPATH
